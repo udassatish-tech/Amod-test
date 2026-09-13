@@ -47,3 +47,5 @@ int main()
 
     return 0;
 }
+
+I have created my branch and added some programs to it. The first program calculates the sum of two numbers, and the second program checks if a number is prime or not.
